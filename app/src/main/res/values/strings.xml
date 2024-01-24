@@ -8,4 +8,8 @@
     <string name="web_dont_exists">La pàgina que està cercant no existeix</string>
     <string name="page_not_found">Web no trobada</string>
     <string name="error_redirects_to">https://www.google.com</string>
+    <string name="connection_error">Error de Connexió</string>
+    <string name="webview_error">Error de WebView</string>
+    <string name="page_loaded_successfully">Page loades successfully</string>
+    <string name="page_load_timeout">Page Load Timeout</string>
 </resources>
