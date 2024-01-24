@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Connexió Web</string>
+    <string name="et_url_hint">Introdueixi una URL</string>
+    <string name="btn_search">Cerca</string>
+    <string name="load_page_title">Carregant la pàgina</string>
+    <string name="load_page_message">Si us plau, esperi…</string>
+    <string name="dont_have_connection">Internet no disponible\nConnecti a Internet</string>
+    <string name="web_dont_exists">La pàgina que està cercant no existeix</string>
+    <string name="page_not_found">Web no trobada</string>
+    <string name="error_redirects_to">https://www.google.com</string>
+</resources>
